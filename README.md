@@ -8,5 +8,7 @@ Steps to publish the following code:
   5. Commited my changes with a meaningful message: *git commit -m "Initial commit of website files"*
   6. In the terminal, added the github repository as remote: *git remote add origin https://github.com/yourusername/my-profile-website.git*
   7. Pushed commits to GitHub: *git push -u origin master*
+  8. Added a Workflow Directory to project
+  9. Added a .yaml file to the workflow directory
 
 Lillie McAlister's demonstration of deploying website to github pages.
